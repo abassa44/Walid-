@@ -1,0 +1,8 @@
+{
+  "name": "Remix: StudyFlow Task Manager",
+  "description": "Organize study schedules and daily tasks with smart notifications and custom scheduling tailored for student productivity.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
